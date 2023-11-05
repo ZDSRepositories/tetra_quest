@@ -1,0 +1,37 @@
+[IMG]https://raw.githubusercontent.com/ZDSRepositories/tetra_quest/main/tetra_export.png[/IMG]
+You are [B]this enterprising fellow.[/B] You aim to delve the [B]Fivefold Dungeon[/B] and swipe the secrets and loot within. You are an alchemical adept, and as such can [B]Fuse[/B] scraps you find to make... well, for now, [B]better scraps[/B]. You'll have to work on that.
+
+But questions remain.
+
+[IMG]https://raw.githubusercontent.com/ZDSRepositories/tetra_quest/main/class_select.gif[/IMG]
+
+What is your [B]name?[/B]
+What is your [B]class? [an adjective] + [a noun][/B]
+
+[SPOILER="What is this?"]
+This is an image quest. All y'all suggest actions for our adept to take, and the actions with the highest votes will be carried out.
+I'll resolve the actions and post the result.
+Most actions will be resolved by D20, though some have special mechanics which will be clarified when introduced.
+There will only be five levels, and each level will have five rooms. Scope creep is my archnemesis with these things...[/SPOILER]
+
+[SPOILER="Status"]
+Name: [I]none[/I]
+Class: [I]none[/I]
+HP: 10/10
+Q (Aether): 5/10
+Inventory: 0/10 slots full
+[/SPOILER]
+[SPOILER="Fusion <1>"]
+You may Fuse any two items you have of the same Tier to produce a new item, [B]deterministically[/B] (same combo of items = same result).
+The items must be of equal or lesser Tier to your Fusion ability, currently [B]Tier 1.[/B]
+Successfully fusing two items will also grant you [B]Aether [/B](and Max Aether if needed), a resource you can expend once you learn other skills.
+Your Fuse tier will increment whenever you pass from one floor/level to the next.
+[/SPOILER]
+[SPOILER="Known Fusions"]
+You haven't observed any combinations yet!
+[/SPOILER]
+[SPOILER="Skills/Spells"]
+Skills and spells cost [B]Q[/B] (the abbreviation for [B]Aether[/B]) to use.
+You don't have any of them yet!
+You'll gain class skills when your Fusion tier increases, and can, rarely, learn non-class skills from other sources.
+[/SPOILER]
