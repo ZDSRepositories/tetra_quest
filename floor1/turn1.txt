@@ -1,0 +1,31 @@
+[IMG]https://raw.githubusercontent.com/ZDSRepositories/tetra_quest/main/floor1/turn1.png[/IMG]
+
+You gloop into slimy existence in a small room, old dust swirling across the floor as you stand. Where your pseudopods touch the floor you can taste rot on the stone.
+
+Open pathways are south, east and west. A locked door is north.
+
+There's half a key on the ground in front of you. You can only tell it's a key from the outline of the other half, rotted away.
+
+There's also a vibrant red potion in the corner.
+
+[SPOILER="Status"]
+Name: [I]Alteria[/I]
+Class: [I]Alchemical Slime[/I]
+HP: 10/10
+Q (Aether): 5/10
+Inventory: 0/10 slots full
+[/SPOILER]
+[SPOILER="Fusion <1>"]
+You may Fuse any two items you have of the same Tier to produce a new item, [B]deterministically[/B] (same combo of items = same result).
+The items must be of equal or lesser Tier to your Fusion ability, currently [B]Tier 1.[/B]
+Successfully fusing two items will also grant you [B]Aether [/B](and Max Aether if needed), a resource you can expend once you learn other skills.
+Your Fuse tier will increment whenever you pass from one floor/level to the next.
+[/SPOILER]
+[SPOILER="Known Fusions"]
+You haven't observed any combinations yet!
+[/SPOILER]
+[SPOILER="Skills/Spells"]
+Skills and spells cost [B]Q[/B] to use.
+[B]Decomposite[/B] (3 Q) (class skill): Separate a semi-autonomous blob of yourself. It will follow commands and can start with an order to carry out.
+You'll gain class skills when your Fusion tier increases, and can, rarely, learn non-class skills from other sources.
+[/SPOILER]
