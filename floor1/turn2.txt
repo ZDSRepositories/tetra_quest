@@ -1,0 +1,38 @@
+Plan: Take Everything wins. Plan: One Room at a Time doesn't conflict, so will be carried out too.
+
+You pick up the [B]Red Potion[/B] and the [B]Half Key[/B].
+[spoiler=Red Potion <1>] Restores 4 HP. [/spoiler]
+[spoiler=Half Key <0>] Broken half of a key. Style matches the locked door you saw earlier.[/spoiler]
+
+Having picked them up, you slip through the east door.
+
+[IMG]https://raw.githubusercontent.com/ZDSRepositories/tetra_quest/main/floor1/turn2.png[/IMG]
+
+A [B]sharp-toothed creature[/B] stands by the wall. It doesn't notice you enter, distracted by gurgling from [B]pipes [/B]on the north wall. You don't know how or if it can see, but the antenna look pretty sensitive. Occasionally the creature stuffs bits of gunk on the floor into its maw, but keeps waving antennae at the pipes. Long strands of dust and lichen trail from the antennae.
+
+A [B]box [/B]is sitting just past the creature. It's wooden, and old rot gnaws at the corners, dark striations spreading across the surface like bluish-black fingers.
+
+[SPOILER="Status"]
+Name: [I]Alteria[/I]
+Class: [I]Alchemical Slime[/I]
+HP: 10/10
+Q (Aether): 5/10
+Inventory: 2/10 slots full
+[/SPOILER]
+[SPOILER=Inventory]
+Red Potion, Half Key
+[/SPOILER]
+[SPOILER="Fusion <1>"]
+You may Fuse any two items you have of the same Tier to produce a new item, [B]deterministically[/B] (same combo of items = same result).
+The items must be of equal or lesser Tier to your Fusion ability, currently [B]Tier 1.[/B]
+Successfully fusing two items will also grant you [B]Aether [/B](and Max Aether if needed), a resource you can expend once you learn other skills.
+Your Fuse tier will increment whenever you pass from one floor/level to the next.
+[/SPOILER]
+[SPOILER="Known Fusions"]
+You haven't observed any combinations yet!
+[/SPOILER]
+[SPOILER="Skills/Spells"]
+Skills and spells cost [B]Q[/B] to use.
+[B]Decomposite[/B] (3 Q) (class skill 1): Separate a semi-autonomous blob of yourself. It will follow commands and can start with an order to carry out.
+You'll gain class skills when your Fusion tier increases, and can, rarely, learn non-class skills from other sources.
+[/SPOILER]
